@@ -213,15 +213,15 @@ body {
 }
 
 .wish-hbd {
-  font-size: 3em;
+  font-size: 2em;
   margin: 0;
   text-transform: uppercase;
 }
 
 .wish h5 {
   font-weight: lighter;
-  font-size: 2rem;
-  margin: 10px 0 0;
+  font-size: 1.5rem;
+  margin: 8px 0 0;
 }
 
 .nine p {
@@ -230,6 +230,7 @@ body {
 }
 
 #replay {
+  font-size: 1.5rem; /* You can change the size */
   z-index: 3;
   cursor: pointer;
 }
