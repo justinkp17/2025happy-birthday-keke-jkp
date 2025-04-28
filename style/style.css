@@ -122,10 +122,11 @@ body {
   height: auto;
 }
 
+/*hat position for desktop*/
 .six .hat {
   position: absolute;
   width: 80px;
-  top: -14px;
+  top: 10px; /*top: -14px;*/
   left: 41.5%!important; /* Adjust this value as needed */
   /*left: 41.5%;*/
 }
@@ -306,9 +307,10 @@ body {
     font-size: 10rem;
   }
 
+  /*Hat position for mobile screen*/
   .six .hat {
     width: 50px;
-    top: -20px;
+    top: 14px; /*top: -20px; now adjusted for yunik_des.png*/ 
   }
 
   .wish-hbd {
